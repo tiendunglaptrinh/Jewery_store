@@ -1,0 +1,25 @@
+.wrapper{
+    width: 100%;
+    text-align: center;
+}
+
+.category{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 2px solid #ccc;
+    padding: 10px 10px;
+    gap: 40px;
+}
+
+.slider{
+    border-radius: 8px;
+}
+
+.product-carts{
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
